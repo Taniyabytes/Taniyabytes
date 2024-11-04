@@ -6,7 +6,7 @@
 ### How I learn
 **I learn by building projects, experimenting, and iteratively refining them through trial and error. It's a hands-on approach where I play with projects, tweak them, and deconstruct them to understand how things work.**
 
-### Check out my repositories at [Repositories](https://github.com/Taniyabytes?tab=repositories)
+### Check out my repositories at [Repositories](https://github.com/Taniya-dev?tab=repositories)
 
 ## Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
